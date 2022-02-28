@@ -1,4 +1,4 @@
-# repositorio debian buster non oficial
+# Repositorio debian buster non oficial
 
 
 Sources.list debian buster Debian GNU/Linux 10.7.0 _Buster
